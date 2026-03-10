@@ -98,6 +98,7 @@ The system consists of three main layers:
 
 ## Repository Structure
 
+```
 ASAC_Capstone_2026_IoT_Based_Medicine_Reminder_System/
 │
 ├── src/
@@ -151,7 +152,7 @@ ASAC_Capstone_2026_IoT_Based_Medicine_Reminder_System/
 ├── README.md
 ├── requirements.txt
 └── setup_instructions.md
-
+```
 ---
 
 ## Applications

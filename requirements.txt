@@ -1,0 +1,51 @@
+# =========================
+# System Requirements
+# =========================
+Node.js >= 18.0
+npm >= 9.0
+MongoDB >= 6.0
+
+# =========================
+# Hardware Requirements
+# =========================
+ESP32 Development Board (38‑pin CP2102)
+DS3231 RTC Module
+PCA9685 16‑Channel PWM Servo Driver
+SG90 Micro Servo Motors (x3)
+HC‑SR04 Ultrasonic Sensors (x3)
+Buzzer Module
+LED Indicators (Red/Green)
+16x2 LCD Display with I2C Module
+Jumper Wires
+Breadboard / PCB
+5V Power Supply
+
+# =========================
+# Backend Dependencies
+# =========================
+express
+mongoose
+cors
+dotenv
+nodemailer
+jsonwebtoken
+bcryptjs
+body-parser
+
+# =========================
+# Frontend Dependencies
+# =========================
+HTML5
+CSS3
+JavaScript
+
+# =========================
+# ESP32 Libraries
+# =========================
+WiFi
+HTTPClient
+ArduinoJson
+Wire
+RTClib
+LiquidCrystal_I2C
+Adafruit_PWMServoDriver
